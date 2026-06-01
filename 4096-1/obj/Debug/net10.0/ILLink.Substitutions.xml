@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linker>
+  <assembly fullname="Cli4096">
+    <resource name="FSharpSignatureData.Cli4096" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedData.Cli4096" action="remove"></resource>
+    <resource name="FSharpSignatureDataB.Cli4096" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedDataB.Cli4096" action="remove"></resource>
+    <resource name="FSharpOptimizationData.Cli4096" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedData.Cli4096" action="remove"></resource>
+    <resource name="FSharpOptimizationDataB.Cli4096" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedDataB.Cli4096" action="remove"></resource>
+    <resource name="FSharpOptimizationInfo.Cli4096" action="remove"></resource>
+    <resource name="FSharpSignatureInfo.Cli4096" action="remove"></resource>
+  </assembly>
+</linker>

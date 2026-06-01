@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NyiEV9bSkHY=",
+  "success": true,
+  "projectFilePath": "/Users/ihyeongyu/Downloads/4096-1/Cli4096.fsproj",
+  "expectedPackageFiles": [
+    "/Users/ihyeongyu/.nuget/packages/fsharp.core/10.0.103/fsharp.core.10.0.103.nupkg.sha512"
+  ],
+  "logs": []
+}
